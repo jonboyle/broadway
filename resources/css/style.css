@@ -28,11 +28,11 @@ p {
 }
 
 a {
-  font-size: 18px; 
+  font-size: 18px;
   color: white;
 }
 
-.background {
+.hero {
   background-image: url('../images/the-flatiron-building.png');
   color: white;
 }
